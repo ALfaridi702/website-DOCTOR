@@ -35,3 +35,8 @@ p {
     padding: 10px;
     border-radius: 5px;
 }
+
+h2 {
+    color: aqua;
+    background-color: black;
+}
