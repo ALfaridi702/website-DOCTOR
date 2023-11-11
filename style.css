@@ -45,16 +45,6 @@ img {
 
 }
 
-img {}
-
-    {
-    margin-top: 40px;
-    border: 5px solid rgb(112, 25, 25);
-    padding: 10px;
-    border-radius: 5px;
-    background-color: rgb(36, 126, 129);
-}
-
 input {
     margin: 10px;
     border: 20px;
@@ -63,11 +53,22 @@ input {
     border-bottom: 20px;
 }
 
+.blog {
+
+    height: 100px;
+    width: 50px;
+    margin-left: 40%;
+    border: 20px;
+    border-radius: 30px;
+    float: 30px;
+}
+
 .first {
-    border: 5px solid green;
+    border: 10px solid green;
     border-radius: 20px;
-    margin-bottom: 30px;
+    border-bottom: 40px;
     margin-right: 40px;
+    margin-top: 40px;
 }
 
 .pothom {
